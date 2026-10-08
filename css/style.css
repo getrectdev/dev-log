@@ -1,0 +1,18 @@
+.goals {
+    outline: 1px solid red;
+    background-color: #ff9999;
+    border-radius: 5px;
+    margin: 5px;
+    width: fit-content;
+    padding: 5px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-decoration: underline;
+    color: #882288;
+}
+
